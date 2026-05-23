@@ -1,0 +1,8 @@
+{
+  "appId": "com.mikrobaninja.game",
+  "appName": "Mikroba Ninja",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}
